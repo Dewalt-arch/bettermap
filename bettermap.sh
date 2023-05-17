@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# bettermap.sh scanner Dewalt - rev WhoKnows : Codename PRE-UDP
+# bettermap.sh scanner Dewalt - rev WhoKnows : Codename PRE-UDP 
 #
 # Know yourself and know your foe and you need not fear the outcome of 100 battles
 # Know yourself but not know your foe for every victory gained you shall suffer a defeat
